@@ -1,0 +1,6 @@
+Lower bound: -1.000000
+Upper bound: 3.000000
+# intervals: 10000
+Exected answer: 3.999200
+Your answer: 3.999200
+Integration matched!
